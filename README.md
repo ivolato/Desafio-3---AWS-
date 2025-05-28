@@ -1,2 +1,5 @@
 # Desafio-3---AWS-
-Conectamos AWS CLI a Ubuntu, creamos  una política y un rol, creamos el usuario y luego le asignamos el rol.
+
+## Objetivo:
+El objetivo de este ejercicio es aprender a configurar y utilizar roles de AWS IAM desde
+la línea de comandos (CLI) para permitir la escritura en un bucket de S3
